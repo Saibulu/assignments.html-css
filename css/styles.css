@@ -21,9 +21,14 @@ p{
     color:greenyellow;
 
 }
+ol,li{
+    color: #ff7246;
+}
 input{
     color: red;
+    background-color:#ff7246;
 }
+
 
 
 
